@@ -1,0 +1,10 @@
+145.254.160.237,216.239.59.99,65.208.228.223,192.168.1.141,76.74.254.125
+www.ethereal.com
+192.168.0.2,192.168.0.1
+user
+Nov 27 20:11:43
+ls,echo,ping,exit
+edmond
+cs.uic.edu
+echo,ping,exit
+131.193.34.202,100,/xampp/index.php
