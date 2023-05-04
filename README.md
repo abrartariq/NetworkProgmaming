@@ -21,3 +21,6 @@ In Homework 4, you will learn to implement reliable communication between a clie
 ### Assignment-5
 
 In Homework 5, you will build upon the reliable communication protocol you implemented in Homework 4 and make it more robust by implementing flow control and congestion control mechanisms. This will help you understand the challenges in building reliable communication protocols and how they can be addressed.
+
+
+In conclusion, these five assignments cover a range of important concepts in computer networking, from HTTP/1.1 protocols to reliable communication using Python.
